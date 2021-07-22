@@ -1,4 +1,4 @@
-# weather_api_practice
+# weather_api_bloc
 
 A new Flutter project.
 
